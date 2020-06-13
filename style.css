@@ -177,7 +177,7 @@ ul, li, ol{
 }
 
 #about-me {
-    transform: rotate(180deg);
+    transform: rotate(360deg);
 }
 
 #portfolio-pic-1 {
