@@ -178,6 +178,8 @@ ul, li, ol{
 
 #about-me {
     transform: rotate(360deg);
+    height: 410px;
+    width: 540px;
 }
 
 #portfolio-pic-1 {
